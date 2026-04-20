@@ -27,4 +27,3 @@ Total Pizzas Sold by Category: A bar visualization ranking categories by overall
 🛠️ Technology Stack
 Power BI: Utilized for data modeling, creating custom DAX measures, and designing an intuitive, client-ready user interface.
 
-SQL: Used for initial data extraction, data validation, and structuring queries to match the required KPIs.
